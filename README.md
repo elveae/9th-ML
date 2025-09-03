@@ -1,7 +1,7 @@
 # 9th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]-11/9 업로드 예정
+- 📚 [발표 자료]-11/10 업로드 예정
 - 발표자: 4팀(진규빈, 김두현, 노현선)
 - 파머완 6장. 차원축소(6.1 ~ 6.5장)
   - PCA
@@ -10,7 +10,7 @@
   - NMF
   - 추가 Kaggle 필사: [Dimensionality Reduction for Beginners](https://www.kaggle.com/code/lazrus/dimensionality-reduction-demystified-for-beginners#Types-of-Simple-Dimensionality-Reduction-Algorithms/Methods)
 
-- 발표팀은 **5월 12일 23:59**까지 조승연(운영1)님께 발표 자료 제출해주세요.
+- 발표팀은 **11월 10일 23:59**까지 조승연(운영1)님께 발표 자료 제출해주세요.
 
 ## ✏ 과제 안내
 ### 📍 10주차 예습과제
@@ -38,7 +38,7 @@
   - ```10주차``` branch에 파일을 모두 업로드 하신 후 ```pull request```를 진행 해주세요.
   - 제목 양식: Week10_예습과제_김이화
   - 라벨: ```예습과제```
-  - **11/9 23:59**까지 제출합니다.
+  - **11/10 23:59**까지 제출합니다.
   
 - **복습과제**
   - ```9주차``` branch에 파일을 모두 업로드 하신 후 ```pull request```를 진행 해주세요.
